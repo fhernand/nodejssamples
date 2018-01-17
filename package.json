@@ -1,0 +1,28 @@
+{
+  "name": "@fhernand/nodejssamples",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fhernand/nodejssamples.git"
+  },
+  "author": "Me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fhernand/nodejssamples/issues"
+  },
+  "homepage": "https://github.com/fhernand/nodejssamples#readme",
+  "description": "This is just a test package",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "package",
+    "tutorial",
+    "freecodecamp"
+  ]
+}
